@@ -6,7 +6,7 @@ import pyglet
 import time
 
 # Load sounds
-sound = pyglet.media.load("prueba.wav",streaming=False)
+sound = pyglet.media.load("prueba.wavjhsgajhs",streaming=False)
 left_sound = pyglet.media.load("left.wav", streaming=False)
 right_sound = pyglet.media.load("right.wav", streaming=False)
 
